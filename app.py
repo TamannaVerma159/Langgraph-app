@@ -1,3 +1,5 @@
+# This is a simple example of customer support application built using langgraph.
+
 from typing_extensions import TypedDict
 # typedict defines the structure of SataeGraph
 from langgraph.graph import StateGraph, START, END
